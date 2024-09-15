@@ -1,7 +1,11 @@
 /*Background Styling*/
 
+/*.primaryBackground {*/
+/*    -fx-background-color: #363940;*/
+/*}*/
+
 .primaryBackground {
-    -fx-background-color: #363940;
+    -fx-background-color: #292b30;
 }
 
 .secondaryBackground {
