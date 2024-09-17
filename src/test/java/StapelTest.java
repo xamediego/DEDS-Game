@@ -1,9 +1,8 @@
-import mai.datastructs.Stapel;
-import mai.exceptions.UnderflowException;
-import mai.scenes.game.aigame.AILogic;
-import mai.scenes.game.logic.GameBoard;
-import mai.scenes.game.logic.GameData;
-import mai.scenes.game.logic.Space;
+import com.mai.datastructs.Stapel;
+import com.mai.exceptions.UnderflowException;
+import com.mai.scenes.game.logic.GameBoard;
+import com.mai.scenes.game.logic.GameData;
+import com.mai.scenes.game.logic.Space;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
