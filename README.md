@@ -1,5 +1,5 @@
 # DedsGame
-Small game created in JavaFX for a school assignement, might have one or two bugss
+Small game created in JavaFX for a school assignment, might have one or two bugss
 
 [Link to zipped jar](https://files.catbox.moe/fy3bn8.zip)
 
