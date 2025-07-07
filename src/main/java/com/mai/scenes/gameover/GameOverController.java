@@ -14,7 +14,7 @@ import javafx.scene.shape.Circle;
 import com.mai.audio.ButtonAudio;
 import com.mai.audio.Sound;
 import com.mai.data.User;
-import com.mai.enums.GameOverType;
+
 import com.mai.scenes.game.Parts.AvatarBox;
 import com.mai.scenes.abstractscene.AbstractController;
 import com.mai.audio.SoundPlayer;

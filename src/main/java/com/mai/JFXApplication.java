@@ -2,10 +2,12 @@ package com.mai;
 
 import com.goxr3plus.fxborderlessscene.borderless.BorderlessScene;
 import com.goxr3plus.fxborderlessscene.borderless.CustomStage;
+
 import javafx.application.Application;
 import javafx.scene.layout.Priority;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
+
 import com.mai.bootstrap.BootstrapData;
 import com.mai.enums.FXMLPart;
 import com.mai.gameinit.GameApplicationWindowed;
@@ -44,5 +46,4 @@ public class JFXApplication extends Application {
 
         customStage.show();
     }
-
 }
